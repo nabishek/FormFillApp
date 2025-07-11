@@ -9,10 +9,6 @@
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
 
-    <label for="Age"><b>Age</b></label>
-    <input type="text" placeholder="Enter Age" name="Age" id="Age" required>
-    <br>
-
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
