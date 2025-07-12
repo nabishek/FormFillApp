@@ -13,10 +13,14 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="Mobile No"><b>Email</b></label>
+    <label for="Mobile No"><b>Mobile No</b></label>
     <input type="text" placeholder="Enter Mobile No" name="Mobile No" id="Mobile No" required>
     <br>
     
+    <label for="Aadhar No"><b>Aadhar No</b></label>
+    <input type="text" placeholder="Aadhar No" name="Aadhar No" id="Aadhar No" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
