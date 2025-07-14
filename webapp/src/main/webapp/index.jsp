@@ -21,6 +21,10 @@
     <input type="text" placeholder="Aadhar No" name="Aadhar No" id="Aadhar No" required>
     <br>
 
+    <label for="Father Name"><b>Father Name</b></label>
+    <input type="text" placeholder="Father Name" name="Father Name" id="Father Name" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
