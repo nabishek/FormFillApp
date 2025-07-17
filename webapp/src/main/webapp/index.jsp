@@ -16,6 +16,11 @@
     <label for="Mobile No"><b>Mobile No</b></label>
     <input type="text" placeholder="Enter Mobile No" name="Mobile No" id="Mobile No" required>
     <br>
+
+    <label for="Mother Name"><b>Mother Name</b></label>
+    <input type="text" placeholder="Mother Name" name="Mother Name" id="Mother Name" required>
+    <br>
+
     
     <label for="Aadhar No"><b>Aadhar No</b></label>
     <input type="text" placeholder="Aadhar No" name="Aadhar No" id="Aadhar No" required>
