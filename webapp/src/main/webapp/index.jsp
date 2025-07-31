@@ -21,6 +21,10 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
+    <label for="name"><b>Mobile No</b></label>
+    <input type="text" placeholder="Mobile No" name="Mobile No" id="Mobile No" required>
+    <br>
+
     <label for="name"><b>Father Name</b></label>
     <input type="text" placeholder="Father Name" name="Father Name" id="Father Name" required>
     <br>
