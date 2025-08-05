@@ -33,6 +33,10 @@
     <input type="text" placeholder="Mother Name" name="Mother Name" id="Mother Name" required>
     <br>
 
+    <label for="name"><b>Sister Name</b></label>
+    <input type="text" placeholder="Sister Name" name="Sister Name" id="Sister Name" required>
+    <br>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
